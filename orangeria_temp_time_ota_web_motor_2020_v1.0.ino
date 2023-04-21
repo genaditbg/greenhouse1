@@ -221,7 +221,7 @@ WiFiClient client;
 String apiKey = "6GHKC73UDEKMT781";
 //const char* ssid = "Genadi-N";
 const char* ssid = "GENADI-HOME2";
-const char* password = "21512151";
+const char* password = "*******";
 
 const char* server = "184.106.153.149";   //"184.106.153.149" or api.thingspeak.com
 
